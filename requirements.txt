@@ -1,0 +1,14 @@
+faster-whisper
+whisperx
+pydub
+webrtcvad
+faiss-cpu
+sentence-transformers
+pypdf
+rapidfuzz
+openai
+tiktoken
+llama-cpp-python
+fastapi
+uvicorn
+python-multipart
